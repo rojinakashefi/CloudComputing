@@ -4,15 +4,17 @@ This project consists of 4 steps:
 
 ## First step:
 
-    Build a alphine container consists of curl command.
+Build a alphine container consists of curl command.
 
-   **Keywords** : Docker build, Docker tag, Docker image, Docker ps, Docker image push, Docker image pull, Docker file
+**Keywords** : Docker build, Docker tag, Docker image, Docker ps, Docker image push, Docker image pull, Docker file
+
+![](/Users/rojina/Desktop/term7/cloud%20computing/CloudComputing/coinprice-dockerVsKuber/pictures/1.png)
 
 ## Second step:
 
-    Write an api for requesting coin prices and save it in redis with expiration time and connect our application on container to our redis image.
+Write an api for requesting coin prices and save it in redis with expiration time and connect our application on container to our redis image.
 
-  **Keywords**: Flask, Docker file, Redis, Docker exec, Docker volume, Docker network
+**Keywords**: Flask, Docker file, Redis, Docker exec, Docker volume, Docker network
 
 ## Third step:
 
@@ -20,12 +22,12 @@ Create Deployment.yaml, Servie.yaml and Config-map.yaml for setting pods and kub
 
 Keywords: minikube, kubectl get all, kubectl apply.
 
+![](/Users/rojina/Desktop/term7/cloud%20computing/CloudComputing/coinprice-dockerVsKuber/pictures/3.png)
+
 ## Fourth step:
 
 Request to our application, which itself send a request to coin website and save the result on redis database, using curl of alphine image on first step via kubectl
 
 Keywords: Kubectl run
 
-
-
-
+![](/Users/rojina/Desktop/term7/cloud%20computing/CloudComputing/coinprice-dockerVsKuber/pictures/4.png)
