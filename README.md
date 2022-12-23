@@ -1,8 +1,6 @@
 # Cloud Computing
 
-Each project folder consists of more specific explanation and their output.
-
----
+***Each project folder consists of more specific explanation of project and their output.***
 
 ## Advertisment manager
 
