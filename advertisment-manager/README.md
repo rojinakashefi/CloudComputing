@@ -26,10 +26,10 @@ In this project we learnt about how to work with cloud services such as :
 
 ### Database architecture
 
-![](/Users/rojina/Desktop/CC1/pictures/db-arch.png)
+![](https://github.com/rojinakashefi/CloudComputing/blob/main/advertisment-manager/pictures/db-arch.png)
 
 Used [Django rest framework]([How to create a REST API with Django REST framework - LogRocket Blog](https://blog.logrocket.com/django-rest-framework-create-api/)) as backend and postman for sending requests.
 
 ### System output
 
-![](/Users/rojina/Desktop/CC1/pictures/sys-out.png)
+![](https://github.com/rojinakashefi/CloudComputing/blob/main/advertisment-manager/pictures/sys-out.png)
