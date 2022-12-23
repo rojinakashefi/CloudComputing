@@ -1,0 +1,31 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: getprice
+  labels:
+    app: getprice-deployment
+spec:
+  replicas: 2
+  selector: 
+    matchLabels:
+      app: getprice
+  template:
+    metadata:
+      labels:
+        app: getprice
+    spec:
+      containers:
+        - name: getprice
+          image: rojinakashefi/coinprice  
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 4000
+          volumeMounts:
+            - name: getprice-config
+              mountPath: /app/config.json
+              subPath: config.json
+      volumes:
+        - name: getprice-config
+          configMap:
+            name: getprice-config

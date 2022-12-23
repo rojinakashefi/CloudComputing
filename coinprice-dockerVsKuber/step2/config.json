@@ -1,0 +1,9 @@
+{
+    "SERVER_HOST" : "0.0.0.0",
+    "SERVER_PORT": 4000,
+    "TIME": 300,
+    "COIN_NAME": "bitcoin",
+    "REDIS_HOST" : "myredis",
+    "REDIS_PORT" :  "6379",
+    "API_ROUTE" : "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids="
+}
