@@ -8,7 +8,7 @@ Build a alphine container consists of curl command.
 
 **Keywords** : Docker build, Docker tag, Docker image, Docker ps, Docker image push, Docker image pull, Docker file
 
-![](/Users/rojina/Desktop/term7/cloud%20computing/CloudComputing/coinprice-dockerVsKuber/pictures/1.png)
+![](https://github.com/rojinakashefi/CloudComputing/blob/main/coinprice-dockerVsKuber/pictures/1.png)
 
 ## Second step:
 
@@ -22,7 +22,7 @@ Create Deployment.yaml, Servie.yaml and Config-map.yaml for setting pods and kub
 
 Keywords: minikube, kubectl get all, kubectl apply.
 
-![](/Users/rojina/Desktop/term7/cloud%20computing/CloudComputing/coinprice-dockerVsKuber/pictures/3.png)
+![](https://github.com/rojinakashefi/CloudComputing/blob/main/coinprice-dockerVsKuber/pictures/3.png)
 
 ## Fourth step:
 
@@ -30,4 +30,4 @@ Request to our application, which itself send a request to coin website and save
 
 Keywords: Kubectl run
 
-![](/Users/rojina/Desktop/term7/cloud%20computing/CloudComputing/coinprice-dockerVsKuber/pictures/4.png)
+![](https://github.com/rojinakashefi/CloudComputing/blob/main/coinprice-dockerVsKuber/pictures/4.png)
