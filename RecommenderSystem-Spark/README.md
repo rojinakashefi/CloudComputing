@@ -10,4 +10,4 @@ This project aims to see usage of Spark and cloud computing in machine learning 
 
 3. Make prediction about users game rating.
 
-<img src="file:///Users/rojina/Desktop/term7/cloud%20computing/CloudComputing/RecommenderSystem-Spark/result.png" title="" alt="" width="211">
+<img src="https://github.com/rojinakashefi/CloudComputing/blob/main/RecommenderSystem-Spark/result.png" title="" alt="" width="211">
