@@ -22,14 +22,14 @@ In this project we learnt about how to work with cloud services such as :
 
 ### System architecture
 
-![](/Users/rojina/Desktop/CC1/pictures/system-arch.png)
+![](https://github.com/rojinakashefi/CloudComputing/blob/main/AdvertisementManager-CloudServices/pictures/system-arch.png)
 
 ### Database architecture
 
-![](https://github.com/rojinakashefi/CloudComputing/blob/main/advertisment-manager/pictures/db-arch.png)
+![](https://github.com/rojinakashefi/CloudComputing/blob/main/AdvertisementManager-CloudServices/pictures/db-arch.png)
 
 Used [Django rest framework](https://blog.logrocket.com/django-rest-framework-create-api/) as backend and postman for sending requests.
 
 ### System output
 
-![](https://github.com/rojinakashefi/CloudComputing/blob/main/advertisment-manager/pictures/sys-out.png)
+![](https://github.com/rojinakashefi/CloudComputing/blob/main/AdvertisementManager-CloudServices/pictures/sys-out.png)
