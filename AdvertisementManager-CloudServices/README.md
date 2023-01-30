@@ -28,7 +28,7 @@ In this project we learnt about how to work with cloud services such as :
 
 ![](https://github.com/rojinakashefi/CloudComputing/blob/main/advertisment-manager/pictures/db-arch.png)
 
-Used [Django rest framework]([How to create a REST API with Django REST framework - LogRocket Blog](https://blog.logrocket.com/django-rest-framework-create-api/)) as backend and postman for sending requests.
+Used [Django rest framework](https://blog.logrocket.com/django-rest-framework-create-api/) as backend and postman for sending requests.
 
 ### System output
 
