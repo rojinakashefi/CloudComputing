@@ -10,7 +10,7 @@ A project which a client can do two things :
 
 In this project we learnt about how to work with cloud services such as :
 
-1. Remote database services : [Aiven](https://aiven.io/), [MongoDB atlas]([MongoDB Atlas: Cloud Document Database | MongoDB](https://www.mongodb.com/cloud/atlas/lp/try4?utm_content=controldbaasterms&utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_emea-nl_ps-all_desktop_eng_lead&utm_term=mongodb%20dbaas&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624536&adgroup=115749708663))
+1. Remote database services : [Aiven](https://aiven.io/), [MongoDB atlas](https://www.mongodb.com/cloud/atlas/lp/try4?utm_content=controldbaasterms&utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_emea-nl_ps-all_desktop_eng_lead&utm_term=mongodb%20dbaas&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624536&adgroup=115749708663)
 
 2. Storing images at S3 Aws bucket
 
