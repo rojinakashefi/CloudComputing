@@ -6,7 +6,7 @@
 
 ***Each  folder consists of more specific explanation of their project and their output.***
 
-## Advertisment manager
+## Advertisement manager
 
 An advertisment manager which we can GET information about an ad and also POST ad under specific circumstances.
 
